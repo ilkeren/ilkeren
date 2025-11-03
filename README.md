@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/i̇lkeren ceylanoğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i̇lkeren ceylanoğlu" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ilkeren-ceylanoğlu-74b2382b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i̇lkeren ceylanoğlu" height="30" width="40" /></a>
 <a href="https://instagram.com/ilkerencyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilkerencyl" height="30" width="40" /></a>
 </p>
 
